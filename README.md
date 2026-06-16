@@ -1,33 +1,21 @@
-<!-- GitHub Profile README for Megan Mulcahy -->
-<!-- Copy this entire file into your MeganMulcahy/MeganMulcahy repo as README.md -->
+<!-- GitHub Profile README - Megan Mulcahy -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Megan%20Mulcahy&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%7C%20LLM%20Apps%20%7C%20Dallas&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Megan%20Mulcahy&fontSize=48&fontColor=e94560&animation=fadeIn&desc=AI%20Engineer%20%7C%20RAG%20%7C%20LLM%20Apps%20%7C%20Dallas&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@email.com)
-[![Portfolio](https://img.shields.io/badge/Resume_Optimizer-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://your-resume-optimizer-link.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megan.mulcahy03@gmail.com)
 
 </div>
-
-<br/>
 
 ---
 
 ## 👋 About me
 
-CS grad + MBA candidate at University of Alabama. I build AI systems — mostly RAG pipelines, LLM applications, and the tooling that makes them actually work in production.
+I build AI systems — RAG pipelines, LLM applications, and the backend that makes them work in production.
 
-My background is split between technical AI work and real enterprise environments (Mercedes-Benz operations, LLM evaluation externship), which means I can build things that work and explain why they work.
-
-Relocating to **Dallas** and looking for AI Engineer roles.
+My background spans real enterprise environments: automated workflows at Mercedes-Benz, built an LLM-powered mortgage document system as an AI engineering extern, and shipped a full-stack data platform for PhD research at UA. CS + MBA at the University of Alabama. Based in Dallas.
 
 ---
 
@@ -35,32 +23,36 @@ Relocating to **Dallas** and looking for AI Engineer roles.
 
 <div align="center">
 
-### AI / ML
+**AI / ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97706?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-00B4D8?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
 
-### Backend & Infra
+**Backend & Infra**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tools & Other
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+**Tools**
+
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -72,47 +64,36 @@ Relocating to **Dallas** and looking for AI Engineer roles.
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Production RAG Pipeline
-Multi-format document ingestion built for real-world PDFs — 1000+ pages with mixed native text, scanned pages, tables, and images.
+### 🔍 AI Mortgage Document System
+LLM-powered pipeline for processing 200+ page mortgage documents. RAG-based Q&A over structured and unstructured financial data. OCR pipeline using Tesseract, PaddleOCR, and PyMuPDF. FastAPI backend for document ingestion and AI query services.
 
-Two-pass page classifier routes every page to the right extractor before it touches an LLM. Hybrid BM25 + dense retrieval, cross-encoder reranking, RAGAs evaluation.
-
-**Stack:** `LlamaIndex` `PyMuPDF` `BM25` `sentence-transformers` `Gemini` `RAGAs`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MeganMulcahy/rag-pipeline)
+**Stack:** `LlamaIndex` `PyMuPDF` `PaddleOCR` `Tesseract` `FastAPI` `Vector Search`
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 Resume Optimizer
-Paste a job description → get a scored ATS analysis, keyword gap breakdown, rewritten bullets in your voice, and a downloadable DOCX.
+### 📊 PhD Data Collection Portal
+Full-stack research data platform for the University of Alabama. React frontend, Node.js + REST API backend, PostgreSQL on Google Cloud SQL. Containerized with Docker.
 
-FastAPI backend on Railway, React on Vercel, Supabase for auth and file storage. System prompt tuned to preserve natural voice instead of generic AI output.
-
-**Stack:** `FastAPI` `Claude API` `React` `Supabase` `Railway` `python-docx`
-
-[![Live App](https://img.shields.io/badge/Live_App-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://your-app.vercel.app)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MeganMulcahy/resume-optimizer)
+**Stack:** `React` `Node.js` `PostgreSQL` `Docker` `Google Cloud SQL` `REST APIs`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎥 CodeBrain
-Local, offline-first knowledge base for coding content. Share an Instagram Reel from your phone → transcribes with Whisper, extracts structured metadata with a local LLM, embeds with nomic-embed-text, stores in ChromaDB. Chat with your personal library.
+### 🏭 Mercedes-Benz Workflow Automation
+Enterprise automation platform across 5+ departments at MBUSI. Cut manual processing time by 60%+. KPI dashboards used weekly by 20+ senior leaders.
 
-**Stack:** `yt-dlp` `Whisper` `Ollama` `ChromaDB` `FastAPI` `React`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MeganMulcahy/codebrain)
+**Stack:** `Power Platform` `Power Automate` `SQL` `SharePoint` `REST APIs`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Currently building
-- Agentic retrieval layer on top of the RAG pipeline
-- Improving page classifier precision on edge-case PDFs
-- Open to collaborating on anything LLM / retrieval / AI infra
+### 🎥 CodeBrain
+Local, offline-first knowledge base for coding content. Share an Instagram Reel → transcribes with Whisper, extracts metadata with a local LLM, stores in ChromaDB. Chat with your personal library.
+
+**Stack:** `yt-dlp` `Whisper` `Ollama` `ChromaDB` `FastAPI` `React`
 
 </td>
 </tr>
@@ -122,29 +103,21 @@ Local, offline-first knowledge base for coding content. Share an Instagram Reel 
 
 ## 💼 Experience
 
-**AI Engineering Extern**
-Built RAG pipelines for legal document processing — clause-aware chunking, hybrid retrieval, cross-encoder reranking, semantic caching, and RAGAs evaluation.
+**IT Co-op @ Mercedes-Benz U.S. International** *(Aug 2024 – Dec 2025)*
+Built KPI dashboards and workflow automation used by 20+ senior leaders. Cut manual processing time by 60%+. Trained 400+ employees on new systems.
 
-**IT Co-op @ Mercedes-Benz U.S. International**
-Built KPI dashboards and automated workflows using Microsoft Power Platform across production operations. Reduced manual reporting time significantly.
+**AI Engineering Extern** *(Jan 2026 – Present)*
+Built LLM-powered mortgage doc processing system — OCR pipeline, RAG-based Q&A, FastAPI backend, vector search over 200+ page financial documents.
+
+**Lead Instructor @ iD Tech** *(May 2024 – Aug 2024)*
+Taught Python, Java, and AI fundamentals to 30+ students per session.
 
 ---
 
-<div align="center">
+## 📫 Reach me
 
-<img src="https://github-readme-stats.vercel.app/api?username=MeganMulcahy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeganMulcahy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*Open to AI Engineer roles in Dallas — reach out anytime*
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy)
-
-</div>
+[![Email](https://img.shields.io/badge/megan.mulcahy03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megan.mulcahy03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy)
+📍 Dallas, TX
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
