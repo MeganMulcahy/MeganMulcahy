@@ -2,34 +2,31 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Megan%20Mulcahy&fontSize=48&fontColor=e94560&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f5f0e8,50:eae4d6,100:ddd6c4&height=160&section=header&text=Megan%20Mulcahy&fontSize=42&fontColor=1a2744&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megan.mulcahy03@gmail.com)
-
-## 🔧 Skills
+## Skills
 
 **AI / ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Whisper](https://img.shields.io/badge/Whisper-00B4D8?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
-![RAGAs](https://img.shields.io/badge/RAGAs-6366F1?style=for-the-badge&logoColor=white)
-![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6F00?style=for-the-badge&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-2C2C2C?style=for-the-badge&logoColor=white)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a2744?style=flat-square&logo=python&logoColor=c9a84c)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1a2744?style=flat-square&logoColor=c9a84c)
+![LangChain](https://img.shields.io/badge/LangChain-1a2744?style=flat-square&logoColor=c9a84c)
+![Gemini](https://img.shields.io/badge/Gemini-1a2744?style=flat-square&logo=google&logoColor=c9a84c)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a2744?style=flat-square&logo=openai&logoColor=c9a84c)
+![Ollama](https://img.shields.io/badge/Ollama-1a2744?style=flat-square&logoColor=c9a84c)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-1a2744?style=flat-square&logo=huggingface&logoColor=c9a84c)
+![Whisper](https://img.shields.io/badge/Whisper-1a2744?style=flat-square&logoColor=c9a84c)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a2744?style=flat-square&logoColor=c9a84c)
+![RAGAs](https://img.shields.io/badge/RAGAs-1a2744?style=flat-square&logoColor=c9a84c)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-1a2744?style=flat-square&logoColor=c9a84c)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1a2744?style=flat-square&logoColor=c9a84c)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-1a2744?style=flat-square&logoColor=c9a84c)
 
 **Infra & Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a2744?style=flat-square&logo=fastapi&logoColor=c9a84c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2744?style=flat-square&logo=postgresql&logoColor=c9a84c)
+![Docker](https://img.shields.io/badge/Docker-1a2744?style=flat-square&logo=docker&logoColor=c9a84c)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1a2744?style=flat-square&logo=googlecloud&logoColor=c9a84c)
+![Linux](https://img.shields.io/badge/Linux-1a2744?style=flat-square&logo=linux&logoColor=c9a84c)
+![Git](https://img.shields.io/badge/Git-1a2744?style=flat-square&logo=git&logoColor=c9a84c)
