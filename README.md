@@ -11,10 +11,6 @@
 
 ---
 
-New grad AI/ML engineer. Python · LLMs · RAG · Dallas · Open to work.
-
----
-
 ## 🔧 Skills
 
 **AI / ML**
@@ -43,64 +39,5 @@ New grad AI/ML engineer. Python · LLMs · RAG · Dallas · Open to work.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 AI Mortgage Document System
-RAG pipeline for processing 200+ page mortgage documents. Semantic search over structured and unstructured financial data. OCR pipeline using Tesseract, PaddleOCR, and PyMuPDF. Started as an externship project, kept building.
-
-**Stack:** `LlamaIndex` `PyMuPDF` `PaddleOCR` `Tesseract` `FastAPI` `Vector Search` `RAGAs`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎥 CodeBrain
-Offline knowledge base for coding content from Instagram and YouTube. Share a Reel → Whisper transcribes it, local LLM extracts structured metadata, stores in ChromaDB. Chat with your personal library.
-
-**Stack:** `yt-dlp` `Whisper` `Ollama` `ChromaDB` `FastAPI` `React`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 PhD Data Collection Portal
-Full-stack research data platform for the University of Alabama. React frontend, Node.js backend, PostgreSQL on Google Cloud SQL. Containerized with Docker.
-
-**Stack:** `React` `Node.js` `PostgreSQL` `Docker` `Google Cloud`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏭 Mercedes-Benz Workflow Automation
-Enterprise automation across 5+ departments at MBUSI. API integrations, SQL pipelines, Power Platform. Cut manual processing time by 60%+. KPI dashboards used by 20+ senior leaders weekly.
-
-**Stack:** `Power Platform` `SQL` `SharePoint` `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-**IT Co-op @ Mercedes-Benz U.S. International** *(Aug 2024 – Dec 2025)*
-Workflow automation and KPI dashboards across production operations. Trained 400+ employees on new systems.
-
-**Lead Instructor @ iD Tech** *(May 2024 – Aug 2024)*
-Taught Python, Java, and AI fundamentals to 30+ students per session.
-
----
-
-## 📫 Reach me
-
-[![Email](https://img.shields.io/badge/megan.mulcahy03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megan.mulcahy03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy)
-📍 Dallas, TX
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
