@@ -2,17 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Megan%20Mulcahy&fontSize=48&fontColor=e94560&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Megan%20Mulcahy&fontSize=48&fontColor=e94560&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy) &nbsp; ![Dallas, TX](https://img.shields.io/badge/📍%20Dallas,%20TX-333?style=for-the-badge)
 
-📍 Dallas, TX
+## About me
 
-## 👋 About me
-
-I build AI systems — RAG pipelines, LLM applications, and the backend that makes them work in production.
-
-My background spans real enterprise environments: automated workflows at Mercedes-Benz, built an LLM-powered mortgage document system as an AI engineering extern, and shipped a full-stack data platform for PhD research at UA. CS + MBA at the University of Alabama. Based in Dallas.
+New grad CS from the University of Alabama. Co-oped at Mercedes-Benz doing process automation, IT, and logistics. Looking for new grad and junior AI/ML engineering roles near in Dallas.
 
 ## Skills
 
