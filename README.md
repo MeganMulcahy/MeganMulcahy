@@ -1,32 +1,33 @@
-<!-- GitHub Profile README - Megan Mulcahy -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f5f0e8,50:eae4d6,100:ddd6c4&height=160&section=header&text=Megan%20Mulcahy&fontSize=42&fontColor=1a2744&animation=fadeIn" width="100%"/>
+# Megan Mulcahy
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy)
 
 ## Skills
-
 **AI / ML**
 
-![Python](https://img.shields.io/badge/Python-1a2744?style=flat-square&logo=python&logoColor=c9a84c)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1a2744?style=flat-square&logoColor=c9a84c)
-![LangChain](https://img.shields.io/badge/LangChain-1a2744?style=flat-square&logoColor=c9a84c)
-![Gemini](https://img.shields.io/badge/Gemini-1a2744?style=flat-square&logo=google&logoColor=c9a84c)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a2744?style=flat-square&logo=openai&logoColor=c9a84c)
-![Ollama](https://img.shields.io/badge/Ollama-1a2744?style=flat-square&logoColor=c9a84c)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-1a2744?style=flat-square&logo=huggingface&logoColor=c9a84c)
-![Whisper](https://img.shields.io/badge/Whisper-1a2744?style=flat-square&logoColor=c9a84c)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1a2744?style=flat-square&logoColor=c9a84c)
-![RAGAs](https://img.shields.io/badge/RAGAs-1a2744?style=flat-square&logoColor=c9a84c)
-![sentence-transformers](https://img.shields.io/badge/sentence--transformers-1a2744?style=flat-square&logoColor=c9a84c)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1a2744?style=flat-square&logoColor=c9a84c)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-1a2744?style=flat-square&logoColor=c9a84c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-00B4D8?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+![RAGAs](https://img.shields.io/badge/RAGAs-6366F1?style=flat-square&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6F00?style=flat-square&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-2C2C2C?style=flat-square&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=flat-square&logoColor=white)
 
 **Infra & Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1a2744?style=flat-square&logo=fastapi&logoColor=c9a84c)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2744?style=flat-square&logo=postgresql&logoColor=c9a84c)
-![Docker](https://img.shields.io/badge/Docker-1a2744?style=flat-square&logo=docker&logoColor=c9a84c)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1a2744?style=flat-square&logo=googlecloud&logoColor=c9a84c)
-![Linux](https://img.shields.io/badge/Linux-1a2744?style=flat-square&logo=linux&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-1a2744?style=flat-square&logo=git&logoColor=c9a84c)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</p>
