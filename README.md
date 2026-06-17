@@ -1,33 +1,46 @@
+<!-- GitHub Profile README - Megan Mulcahy -->
+
 <div align="center">
 
-# Megan Mulcahy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Megan%20Mulcahy&fontSize=48&fontColor=e94560&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy)
+
+📍 Dallas, TX
+
+## 👋 About me
+
+I build AI systems — RAG pipelines, LLM applications, and the backend that makes them work in production.
+
+My background spans real enterprise environments: automated workflows at Mercedes-Benz, built an LLM-powered mortgage document system as an AI engineering extern, and shipped a full-stack data platform for PhD research at UA. CS + MBA at the University of Alabama. Based in Dallas.
 
 ## Skills
+
 **AI / ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Whisper](https://img.shields.io/badge/Whisper-00B4D8?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
-![RAGAs](https://img.shields.io/badge/RAGAs-6366F1?style=flat-square&logoColor=white)
-![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6F00?style=flat-square&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-2C2C2C?style=flat-square&logoColor=white)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-00B4D8?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
+![RAGAs](https://img.shields.io/badge/RAGAs-6366F1?style=for-the-badge&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6F00?style=for-the-badge&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-2C2C2C?style=for-the-badge&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=for-the-badge&logoColor=white)
 
 **Infra & Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</p>
+**Other Tools**
+
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
