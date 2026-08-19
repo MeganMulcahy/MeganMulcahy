@@ -1,10 +1,11 @@
 <!-- GitHub Profile README - Megan Mulcahy -->
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Megan%20Mulcahy&fontSize=48&fontColor=e94560&animation=fadeIn" width="100%"/>
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meganmulcahy) &nbsp; ![Dallas, TX](https://img.shields.io/badge/📍%20Dallas,%20TX-333?style=for-the-badge)
-  
+
 ## About me
 
 CS + MBA from the University of Alabama. Co-oped at Mercedes-Benz building production BI tools and automating data pipelines. Looking for analytics engineering roles in Dallas.
