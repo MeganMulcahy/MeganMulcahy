@@ -8,7 +8,7 @@
 
 ## About me
 
-CS + MBA from the University of Alabama. Co-oped at Mercedes-Benz automating production BI tools and building data pipelines. Looking for analytics engineering roles in Dallas.
+CS + MBA from the University of Alabama. Co-oped at Mercedes-Benz automating data pipelines and building production BI tools. Looking for analytics engineering roles in Dallas.
 
 ## Skills
 
