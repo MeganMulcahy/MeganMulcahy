@@ -54,5 +54,3 @@ I build automated data pipelines and analytics solutions, transforming messy, mu
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-00599C?style=for-the-badge)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge)
-
-*B.S. Computer Science 2026 · MBA 2027*
