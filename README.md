@@ -6,7 +6,9 @@
 
 ## About me
 
-B.S. CS + MBA from the University of Alabama. Co-oped at Mercedes-Benz automating data pipelines and building production BI tools. Looking for analytics engineering roles in Dallas, TX.
+B.S. CS 2026 + MBA 2027
+
+I build automated data pipelines and analytics solutions, transforming messy, multi-source enterprise data into reliable, actionable insights, with production experience at Mercedes-Benz U.S. International. Open to data & analytic engineering roles in Dallas, TX.
 
 ## Skills
 
